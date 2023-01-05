@@ -1,0 +1,32 @@
+*{
+    margin:0.5px;
+    padding:0.5px;
+}
+.text-dec{
+    color: pink;
+}
+.text-line{
+    color: white ;
+    border: 5px;
+    border-radius: 10px;
+    padding-top: 15px;
+    background-color: pink;
+    padding-bottom: 15px;
+    
+}
+.second-text{
+    color: white;
+    background-color: pink;
+    border: 5px;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.third-text{
+    color: white;
+    background-color: pink;
+    border: 5px;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
